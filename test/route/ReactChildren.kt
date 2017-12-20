@@ -1,0 +1,2 @@
+package react
+interface ReactChildren

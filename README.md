@@ -1,12 +1,11 @@
-This project was bootstrapped with [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app).
+项目模版基于 [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app).
 
-Below you will find some useful information on how to work with this application.<br>
-We're still working on this guide and you can find its most recent version [here](https://github.com/JetBrains/create-react-kotlin-app/blob/master/packages/react-scripts/template/README.md).
 
-## Sending Feedback
+## 主要学习kotlin-react集成一些第三方js模块 包括jquery mobx mobx-react
 
-We are always open to [your feedback](https://youtrack.jetbrains.com/issues/CRKA).
+解决了react-router集成的问题
 
+mobx 参考了 https://github.com/danneu/kobx
 ## Folder Structure
 
 After creation, your project should look like this:
